@@ -12,7 +12,7 @@ Android推送，优先走厂商通道，若不满足走厂商通道的则走MobP
 
 ## 在线安装
 ``` shell
-cordova plugin add https://github.com/hhjjj1010/cordova-plugin-mobpush.git --variable APP_KEY=your mobpush appkey --variable APP_SECRET=your mobpush appSecret
+cordova plugin add https://github.com/shuto-cn/cordova-plugin-mobpush.git --variable APP_KEY=your mobpush appkey --variable APP_SECRET=your mobpush appSecret
 ```
 
 ## 本地安装
